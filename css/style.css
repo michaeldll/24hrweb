@@ -55,3 +55,15 @@ h6 {
 .video-vide-description p {
   font-size: 23px;
 }
+
+.btn-primary{
+  background-color: #e8c045;
+  color: #000000;
+  border: none;
+  text-align: center;
+}
+
+.btn-primary:hover{
+  background-color: #f9d66c;
+  color: #000000;
+}
