@@ -79,14 +79,20 @@ a,
   font-size: 23px;
 }
 
-.btn-primary{
+@media (max-width: 991px) {
+  .video-vide-description p {
+    font-size: 16px;
+  }
+}
+
+.btn-primary {
   background-color: #e8c045;
   color: #000000;
   border: none;
   text-align: center;
 }
 
-.btn-primary:hover{
+.btn-primary:hover {
   background-color: #f9d66c;
   color: #000000;
 }
