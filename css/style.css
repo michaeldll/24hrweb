@@ -189,3 +189,13 @@ section#contact{
 h2{
   color: #e8c045;
 }
+
+.image-center{
+  display: flex;
+  align-items: center;
+  justify-content: 
+}
+
+.copyright{
+  margin-top: 10px;
+}
