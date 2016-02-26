@@ -5,6 +5,16 @@ body {
   color: #fff;
 }
 
+::-moz-selection {
+  background-color: #e8c045;
+  color: #fff;
+}
+
+::selection {
+  background-color: #e8c045;
+  color: #fff;
+}
+
 p,
 footer {
   font-size: 120%;
