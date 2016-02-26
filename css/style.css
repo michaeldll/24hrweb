@@ -1,4 +1,5 @@
 
+
 body {
   font-family: "Gudea", sans-serif;
   background-color: #282828;
@@ -183,4 +184,8 @@ section#contact{
 .dropdown-menu a:hover,
 .dropdown-menu a:focus {
   background-color: #444 !important;
+}
+
+h2{
+  color: #e8c045;
 }
