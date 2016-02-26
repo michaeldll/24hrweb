@@ -1,5 +1,7 @@
 body {
   font-family: "Segoe UI", "San Francisco", sans-serif;
+  background-color: #282828;
+  color: #fff;
 }
 
 nav {
@@ -23,6 +25,10 @@ h6 {
 a,
 .btn {
   transition: 0.15s;
+}
+
+.btn.btn-xl {
+  color: #333;
 }
 
 .container-fluid:first-of-type {

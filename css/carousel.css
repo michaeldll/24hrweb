@@ -48,6 +48,19 @@ body {
   margin-bottom: 110px;
 }
 
+.counter-terrorists,
+.terrorists {
+  background-size: cover;
+}
+
+.counter-terrorists {
+  background-image: url("../img/original3.png");
+}
+
+.terrorists {
+  background-image: url("../img/original2.jpg");
+}
+
 .carousel-caption h1 {
   color: #e8c045;
   text-shadow: 0;
