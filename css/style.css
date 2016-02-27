@@ -6,6 +6,10 @@
   padding: 0;
 }
 
+.chapeau {
+  font-style: italic;
+}
+
 .content {
   flex: 1;
 }
@@ -27,8 +31,10 @@ body {
 }
 
 p,
+li,
 footer {
   font-size: 120%;
+  line-height: 1.6;
 }
 
 nav {
@@ -195,7 +201,8 @@ section#contact{
   background-color: #444 !important;
 }
 
-h2{
+h1,
+h2 {
   color: #e8c045;
 }
 
@@ -211,4 +218,9 @@ h2{
 
 .presentation{
   margin-top: 100px;
+}
+
+code {
+  background-color: #222;
+  color: #eee;
 }
