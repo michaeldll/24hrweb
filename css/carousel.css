@@ -3,7 +3,7 @@
 /* Padding below the footer and lighter body text */
 
 body {
-  padding-bottom: 40px;
+  padding-bottom: 0px;
   color: #5a5a5a;
 }
 
@@ -39,8 +39,8 @@ body {
 
 /* Carousel base class */
 .carousel {
-  height: 600px;
-  margin-bottom: 60px;
+  height: 100vh;
+  margin-bottom: 0px;
 }
 /* Since positioning the image, we need to help out the caption */
 .carousel-caption {
@@ -67,18 +67,23 @@ body {
   text-shadow: 0 0 10px rgba(0, 0, 0, 0.75);
 }
 
+.carousel-caption p {
+  text-shadow: 0;
+  text-shadow: 0 0 10px rgba(0, 0, 0, 0.75);
+}
+
 
 /* Declare heights because of positioning of img element */
 .carousel .item {
-  height: 600px;
+  height: 100vh;
   background-color: #777;
 }
 .carousel-inner > .item > img {
   position: absolute;
   top: 0;
   left: 0;
-  min-width: 100%;
-  height: 600px;
+  min-width: 100vh;
+  height: 100vh;
 }
 
 
@@ -100,19 +105,7 @@ body {
 }
 
 
-/* Featurettes
-------------------------- */
 
-.featurette-divider {
-  margin: 80px 0; /* Space out the Bootstrap <hr> more */
-}
-
-/* Thin out the marketing headings */
-.featurette-heading {
-  font-weight: 300;
-  line-height: 1;
-  letter-spacing: -1px;
-}
 
 
 /* RESPONSIVE CSS
