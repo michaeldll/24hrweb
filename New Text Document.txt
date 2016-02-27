@@ -1,0 +1,64 @@
+      <div class="container">
+        <div class="bg">
+        <div class="row">
+          <div class="col-lg-6">
+            <div class="image-center">
+            <img class="img-rounded" src="img/perso/fbi.jpg" width="300" height="169">
+            </div>
+            <div class="titre1">
+            <h2>FBI</h2>
+            </div>
+            <p>
+            </p>
+          </div>
+          <div class="col-lg-6">
+            <div class="image-center">
+            <img class="img-rounded" src="img/perso/anarchists.jpg" alt="news" width="300" height="169">
+            </div>
+            <div class="titre1">
+            <h2>Lorem Ipsum</h2>
+            </div>
+          </div>
+        </div>
+        <div class="row">
+          <div class="col-lg-6">
+            <div class="image-center">
+            <img class="img-rounded" src="img/perso/fbi.jpg" width="300" height="169">
+            </div>
+            <div class="titre1">
+            <h2>Lorem Ipsum</h2>
+            </div>
+            <p>
+            </p>
+          </div>
+          <div class="col-lg-6">
+            <div class="image-center">
+            <img class="img-rounded" src="img/perso/anarchists.jpg" alt="news" width="300" height="169">
+            </div>
+            <div class="titre1">
+            <h2>Lorem Ipsum</h2>
+            </div>
+          </div>
+        </div>
+        <div class="row">
+          <div class="col-lg-6">
+            <div class="image-center">
+            <img class="img-rounded" src="img/perso/fbi.jpg" width="300" height="169">
+            </div>
+            <div class="titre1">
+            <h2>Lorem Ipsum</h2>
+            </div>
+            <p>
+            </p>
+          </div>
+          <div class="col-lg-6">
+            <div class="image-center">
+            <img class="img-rounded" src="img/perso/anarchists.jpg" alt="news" width="300" height="169">
+            </div>
+            <div class="titre1">
+            <h2>Lorem Ipsum</h2>
+            </div>
+          </div>
+        </div>
+      </div>
+      </div>

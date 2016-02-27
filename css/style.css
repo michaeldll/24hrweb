@@ -207,8 +207,22 @@ h2 {
   color: #e8c045;
 }
 
-.image-center{
-  margin-left: 9vw;
+.img-rounded2{
+  position: relative;
+  width: 100px;
+  margin: 0 auto;
+}
+
+.pls{
+  text-align: center;
+}
+
+.margintop{
+  margin-top: 30px;
+}
+
+.margintop1{
+  margin-top: 0px;
 }
 
 .copyright{
