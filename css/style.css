@@ -1,4 +1,13 @@
+.site {
+  display: flex;
+  min-height: 100vh;
+  flex-direction: column;
+  padding: 0;
+}
 
+.content {
+  flex: 1;
+}
 
 body {
   font-family: "Gudea", sans-serif;
@@ -134,17 +143,17 @@ a,
 
 footer {
   padding: 25px 0;
+  margin-top: 0px;
   text-align: center;
   color: #aaa;
-  margin-bottom: -40px;
-  margin-top: 230px;
+  height: 90px;
 }
 
 footer ul.quicklinks {
   margin-bottom: 0;
 }
 
-.footer-background{
+.footer-background {
   background-color: #111;
 }
 ul.social-buttons {
@@ -160,10 +169,9 @@ ul.social-buttons li a {
   line-height: 40px;
   color: white;
   outline: none;
-  -webkit-transition: all 0.3s;
-  -moz-transition: all 0.3s;
   transition: all 0.3s;
 }
+
 ul.social-buttons li a:hover,
 ul.social-buttons li a:focus,
 ul.social-buttons li a:active {
@@ -193,7 +201,7 @@ h2{
 .image-center{
   display: flex;
   align-items: center;
-  justify-content: 
+  justify-content:
 }
 
 .copyright{
