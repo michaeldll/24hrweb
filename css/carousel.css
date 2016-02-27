@@ -45,7 +45,7 @@ body {
 /* Since positioning the image, we need to help out the caption */
 .carousel-caption {
   z-index: 10;
-  margin-bottom: 190px;
+  margin-bottom: 30vh;
 }
 
 .counter-terrorists,
@@ -144,6 +144,6 @@ body {
 
 @media (min-width: 992px) {
   .featurette-heading {
-    margin-top: 120px;
+    margin-top: 70px;
   }
 }

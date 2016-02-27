@@ -2,7 +2,7 @@
   float:none;
 }
 
-.site {
+.site { 
   display: flex;
   min-height: 100vh;
   flex-direction: column;
@@ -64,6 +64,7 @@ a,
 }
 
 .btn.btn-xl {
+  background-color: #e8c045;
   color: #333;
 }
 
