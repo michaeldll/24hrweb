@@ -45,7 +45,7 @@ body {
 /* Since positioning the image, we need to help out the caption */
 .carousel-caption {
   z-index: 10;
-  margin-bottom: 110px;
+  margin-bottom: 190px;
 }
 
 .counter-terrorists,
