@@ -205,6 +205,7 @@ ul.social-buttons li a {
 ul.social-buttons li a:hover,
 ul.social-buttons li a:focus,
 ul.social-buttons li a:active {
+  transform: scale(1.15);
   background-color: #e8c045;
 }
 
@@ -289,4 +290,12 @@ code {
 
 strong{
   color:#e8c045;
+}
+
+.blog{
+  color:#e8c045;
+}
+
+a.blog:hover{
+  color:#F8D055;
 }
